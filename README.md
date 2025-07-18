@@ -1,6 +1,8 @@
-SportAIBot by Gemini 🏆🤖
+<h1>SportAIBot by Gemini 🏆🤖</h1>
+<br>
 SportAIBot adalah chatbot cerdas berbasis web yang didukung oleh model AI generatif Google, Gemini 2.5 Flash. Chatbot ini dirancang secara khusus untuk menjadi seorang ahli olahraga, mampu menjawab berbagai pertanyaan seputar dunia olahraga, mulai dari berita, sejarah, aturan main, hingga profil atlet.
 
+<hr>
 ✨ Fitur Utama
 Ditenagai oleh Google Gemini: Menggunakan kekuatan model gemini-2.5-flash untuk pemahaman bahasa dan generasi respons yang canggih.
 
@@ -14,11 +16,13 @@ Antarmuka Sederhana: UI yang bersih dan intuitif, dibangun dengan HTML, CSS, dan
 
 Mudah Dijalankan: Proyek ini dapat diatur dan dijalankan secara lokal hanya dengan beberapa perintah.
 
+<hr>
 🚀 Demo
 
 Tampilan antarmuka SportAI
 <img width="1919" height="826" alt="Screenshot 2025-07-18 213224" src="https://github.com/user-attachments/assets/815a6c0a-9fcd-4a0d-8d67-a95381b5faae" />
 
+<hr>
 🛠️ Tumpukan Teknologi (Tech Stack)
 Backend: Node.js, Express.js
 
@@ -26,6 +30,7 @@ Frontend: HTML5, CSS3, Vanilla JavaScript
 
 AI Engine: Google Generative AI (@google/generative-ai)
 
+<hr>
 🧠 Bagaimana Cara Kerjanya?
 Kecerdasan khusus dari SportAIBot berasal dari teknik yang disebut Persona Prompt.
 
